@@ -411,6 +411,7 @@ There are three challenges we need you to solve. Code your solution in
 `index.js`. We'll provide some brief instructions here, but you should really
 rely on the test failure messages to guide your code.
 
+
 ## Instructions
 
 - When we started out, we assigned ID numbers sequentially to new users, so our
